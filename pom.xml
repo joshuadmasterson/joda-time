@@ -795,7 +795,7 @@
     </plugins>
   </reporting>
 
-  <!-- ==================================================================== -->
+  <!-- Changed to match petclinic  ======================================== -->
   <distributionManagement>
     <repository>
         <id>deployment</id>
